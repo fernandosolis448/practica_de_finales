@@ -1,2 +1,2 @@
-# practica_de_finales
- mi practica
+# cliente_servidor
+ My proyect
